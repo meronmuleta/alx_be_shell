@@ -1,1 +1,3 @@
-# alx_be_shell
+0-iam_betty
+This Script switch the user to betty.
+
