@@ -1,4 +1,4 @@
-# alx_be_shell
+#!/bin/bash
 
 0-iam_betty
 
@@ -11,3 +11,7 @@ this script prints the effective username of the current user.
 4-empty
 
 this script  creates an empty file called hello.
+
+5-execute
+
+this script that execute permission to the owner of the file hello.
