@@ -19,3 +19,7 @@ this script that execute permission to the owner of the file hello.
 6-multiple_permissions
 
 this script adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+
+9-John_Doe
+
+this script sets the mode of the file hello to this: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
